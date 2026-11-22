@@ -1,0 +1,8 @@
+{
+  "name": "fairbill",
+  "main": "src/index.js",
+  "compatibility_date": "2025-01-01",
+  "d1_databases": [
+    { "binding": "DB", "database_name": "fairbill", "database_id": "e228c02d-3bd5-4650-8259-0f02c1764a9f" }
+  ]
+}
